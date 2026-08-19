@@ -16,4 +16,4 @@ Part of [Project ARWE](https://github.com/henokakriso).
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+ARWE Public Source License (ARWE-PSL) v1.0 — see [LICENSE](LICENSE.md) and [NOTICE](NOTICE.md).
